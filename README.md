@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monyert
+- 👋 Hi, I’m @Monyert, Full Stack Developer.
 - 👀 I’m interested in software programming like video games
 - 🌱 I’m currently learning about plc programming
 - 📫 How to reach me ...
