@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Monyert
+- 👀 I’m interested in software programming like video games
+- 🌱 I’m currently learning about plc programming
+- 📫 How to reach me ...
